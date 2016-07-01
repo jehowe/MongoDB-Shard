@@ -1,0 +1,35 @@
+mongors2n1:
+  scale: 1
+  retain_ip: true
+mongors2n2:
+  scale: 1
+  retain_ip: true
+mongors2n3:
+  scale: 1
+  retain_ip: true
+mongors1n3:
+  scale: 1
+  retain_ip: true
+mongors1n2:
+  scale: 1
+  retain_ip: true
+mongocfg1:
+  scale: 1
+  retain_ip: true
+mongos2:
+  scale: 1
+  retain_ip: true
+mongocfg3:
+  scale: 1
+  retain_ip: true
+mongos1:
+  scale: 1
+  retain_ip: true
+mongors1n1:
+  scale: 1
+  retain_ip: true
+mongocfg2:
+  scale: 1
+  retain_ip: true
+mongos3:
+  scale: 1
