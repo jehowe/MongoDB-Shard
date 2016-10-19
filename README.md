@@ -13,5 +13,6 @@ Connect mongos1 to mongors1n1 and mongors2n1
 
 Shell>mongo
 
-mongo>sh.addShard('mongors1/ACA-MongoDB_mongors1n1_1:27017'); 
+mongo>sh.addShard('mongors1/ACA-MongoDB_mongors1n1_1:27017');
+
 mongo>sh.addShard('mongors2/ACA-MongoDB_mongors2n1_1:27017'); 
